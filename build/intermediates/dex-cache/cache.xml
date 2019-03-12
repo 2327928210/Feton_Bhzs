@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\Android\project\0030_BHZS\0002 development\0001 code\0001 android source\Feton_android\MPChartLib\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.0"
+        sha1="cb9011a308045299470cd650b6b7c4acdfb8380e">
+        <dex dex="D:\Android\project\0030_BHZS\0002 development\0001 code\0001 android source\Feton_android\app\build\intermediates\transforms\dex\debug\folders\1000\4\classes_9adde76f43b0934e3a2da0cc2203f2578f8a1586\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\project\0030_BHZS\0002 development\0001 code\0001 android source\Feton_android\FlycoDialog_Lib\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.0"
+        sha1="6ca181385e3d649dad3cb48f0f94d93e3fc16d2c">
+        <dex dex="D:\Android\project\0030_BHZS\0002 development\0001 code\0001 android source\Feton_android\app\build\intermediates\transforms\dex\debug\folders\1000\4\classes_8c37e03a9fbcfef5529d8849b5e67f04c78cf162\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\project\0030_BHZS\0002 development\0001 code\0001 android source\Feton_android\croller\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.0"
+        sha1="b33c4105bc4cf55eec78359f7d3b868064b30b30">
+        <dex dex="D:\Android\project\0030_BHZS\0002 development\0001 code\0001 android source\Feton_android\app\build\intermediates\transforms\dex\debug\folders\1000\4\classes_701565e385763fc2b319373d23e16b08cff11d33\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\project\0030_BHZS\0002 development\0001 code\0001 android source\Feton_android\app\libs\bugly_crash_release.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.0"
+        sha1="1f125e6db6a0848d13f8c014be05600161968bbf">
+        <dex dex="D:\Android\project\0030_BHZS\0002 development\0001 code\0001 android source\Feton_android\app\build\intermediates\transforms\dex\debug\folders\1000\2\bugly_crash_release_4c927b7b5a5cae23d49133029eaf8cba2581ebdd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\project\0030_BHZS\0002 development\0001 code\0001 android source\Feton_android\viewpagerindicator\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.0"
+        sha1="05269d17fdf13e04689571ac1ab7582ab25a744d">
+        <dex dex="D:\Android\project\0030_BHZS\0002 development\0001 code\0001 android source\Feton_android\app\build\intermediates\transforms\dex\debug\folders\1000\4\classes_bfb805f7be301118b622132281a58b241b6bd458\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\project\0030_BHZS\0002 development\0001 code\0001 android source\Feton_android\powermenu\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.0"
+        sha1="a8d7bd4292c6021556349e2b6bd96fab5f338d46">
+        <dex dex="D:\Android\project\0030_BHZS\0002 development\0001 code\0001 android source\Feton_android\app\build\intermediates\transforms\dex\debug\folders\1000\4\classes_0c52bd1703d018b0a11c8561e1b1afbd9f04f220\classes.dex" />
+    </item>
+
+</items>

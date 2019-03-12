@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "D:\\Android\\project\\0030_BHZS\\0002 development\\0001 code\\0001 android source\\Feton_android\\viewpagerindicator\\build\\intermediates\\res\\merged\\release\\layout\\notification_action.xml",
+        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\facfe8906ce76df11facd0aa6a256c7002a19aff\\output\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "D:\\Android\\project\\0030_BHZS\\0002 development\\0001 code\\0001 android source\\Feton_android\\viewpagerindicator\\build\\intermediates\\res\\merged\\release\\layout\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\1c4fbb5053a390cdd0c8fb734afec501b6c70d2e\\output\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "D:\\Android\\project\\0030_BHZS\\0002 development\\0001 code\\0001 android source\\Feton_android\\viewpagerindicator\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\facfe8906ce76df11facd0aa6a256c7002a19aff\\output\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "D:\\Android\\project\\0030_BHZS\\0002 development\\0001 code\\0001 android source\\Feton_android\\viewpagerindicator\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\facfe8906ce76df11facd0aa6a256c7002a19aff\\output\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "D:\\Android\\project\\0030_BHZS\\0002 development\\0001 code\\0001 android source\\Feton_android\\viewpagerindicator\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_big_media.xml",
+        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\1c4fbb5053a390cdd0c8fb734afec501b6c70d2e\\output\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "D:\\Android\\project\\0030_BHZS\\0002 development\\0001 code\\0001 android source\\Feton_android\\viewpagerindicator\\build\\intermediates\\res\\merged\\release\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\facfe8906ce76df11facd0aa6a256c7002a19aff\\output\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "D:\\Android\\project\\0030_BHZS\\0002 development\\0001 code\\0001 android source\\Feton_android\\viewpagerindicator\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\facfe8906ce76df11facd0aa6a256c7002a19aff\\output\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "D:\\Android\\project\\0030_BHZS\\0002 development\\0001 code\\0001 android source\\Feton_android\\viewpagerindicator\\build\\intermediates\\res\\merged\\release\\layout\\notification_media_action.xml",
+        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\1c4fbb5053a390cdd0c8fb734afec501b6c70d2e\\output\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "D:\\Android\\project\\0030_BHZS\\0002 development\\0001 code\\0001 android source\\Feton_android\\viewpagerindicator\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\1c4fbb5053a390cdd0c8fb734afec501b6c70d2e\\output\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "D:\\Android\\project\\0030_BHZS\\0002 development\\0001 code\\0001 android source\\Feton_android\\viewpagerindicator\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\1c4fbb5053a390cdd0c8fb734afec501b6c70d2e\\output\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "D:\\Android\\project\\0030_BHZS\\0002 development\\0001 code\\0001 android source\\Feton_android\\viewpagerindicator\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_big_media_narrow_custom.xml",
+        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\1c4fbb5053a390cdd0c8fb734afec501b6c70d2e\\output\\res\\layout\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "D:\\Android\\project\\0030_BHZS\\0002 development\\0001 code\\0001 android source\\Feton_android\\viewpagerindicator\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_media_custom.xml",
+        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\1c4fbb5053a390cdd0c8fb734afec501b6c70d2e\\output\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "D:\\Android\\project\\0030_BHZS\\0002 development\\0001 code\\0001 android source\\Feton_android\\viewpagerindicator\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_lines_media.xml",
+        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\1c4fbb5053a390cdd0c8fb734afec501b6c70d2e\\output\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "D:\\Android\\project\\0030_BHZS\\0002 development\\0001 code\\0001 android source\\Feton_android\\viewpagerindicator\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_big_media_custom.xml",
+        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\1c4fbb5053a390cdd0c8fb734afec501b6c70d2e\\output\\res\\layout\\notification_template_big_media_custom.xml"
+    }
+]

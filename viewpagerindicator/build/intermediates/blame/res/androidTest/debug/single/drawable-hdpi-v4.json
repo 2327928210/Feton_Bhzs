@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "D:\\Android\\project\\0030_BHZS\\0002 development\\0001 code\\0001 android source\\Feton_android\\viewpagerindicator\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\vpi__tab_selected_focused_holo.9.png",
+        "source": "D:\\Android\\project\\0030_BHZS\\0002 development\\0001 code\\0001 android source\\Feton_android\\viewpagerindicator\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\vpi__tab_selected_focused_holo.9.png"
+    },
+    {
+        "merged": "D:\\Android\\project\\0030_BHZS\\0002 development\\0001 code\\0001 android source\\Feton_android\\viewpagerindicator\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\vpi__tab_selected_pressed_holo.9.png",
+        "source": "D:\\Android\\project\\0030_BHZS\\0002 development\\0001 code\\0001 android source\\Feton_android\\viewpagerindicator\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\vpi__tab_selected_pressed_holo.9.png"
+    },
+    {
+        "merged": "D:\\Android\\project\\0030_BHZS\\0002 development\\0001 code\\0001 android source\\Feton_android\\viewpagerindicator\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\notification_bg_normal.9.png",
+        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\facfe8906ce76df11facd0aa6a256c7002a19aff\\output\\res\\drawable-hdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "D:\\Android\\project\\0030_BHZS\\0002 development\\0001 code\\0001 android source\\Feton_android\\viewpagerindicator\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\vpi__tab_selected_holo.9.png",
+        "source": "D:\\Android\\project\\0030_BHZS\\0002 development\\0001 code\\0001 android source\\Feton_android\\viewpagerindicator\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\vpi__tab_selected_holo.9.png"
+    },
+    {
+        "merged": "D:\\Android\\project\\0030_BHZS\\0002 development\\0001 code\\0001 android source\\Feton_android\\viewpagerindicator\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\vpi__tab_unselected_holo.9.png",
+        "source": "D:\\Android\\project\\0030_BHZS\\0002 development\\0001 code\\0001 android source\\Feton_android\\viewpagerindicator\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\vpi__tab_unselected_holo.9.png"
+    },
+    {
+        "merged": "D:\\Android\\project\\0030_BHZS\\0002 development\\0001 code\\0001 android source\\Feton_android\\viewpagerindicator\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\vpi__tab_unselected_focused_holo.9.png",
+        "source": "D:\\Android\\project\\0030_BHZS\\0002 development\\0001 code\\0001 android source\\Feton_android\\viewpagerindicator\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\vpi__tab_unselected_focused_holo.9.png"
+    },
+    {
+        "merged": "D:\\Android\\project\\0030_BHZS\\0002 development\\0001 code\\0001 android source\\Feton_android\\viewpagerindicator\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\notification_bg_low_normal.9.png",
+        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\facfe8906ce76df11facd0aa6a256c7002a19aff\\output\\res\\drawable-hdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "D:\\Android\\project\\0030_BHZS\\0002 development\\0001 code\\0001 android source\\Feton_android\\viewpagerindicator\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\vpi__tab_unselected_pressed_holo.9.png",
+        "source": "D:\\Android\\project\\0030_BHZS\\0002 development\\0001 code\\0001 android source\\Feton_android\\viewpagerindicator\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\vpi__tab_unselected_pressed_holo.9.png"
+    },
+    {
+        "merged": "D:\\Android\\project\\0030_BHZS\\0002 development\\0001 code\\0001 android source\\Feton_android\\viewpagerindicator\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png",
+        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\facfe8906ce76df11facd0aa6a256c7002a19aff\\output\\res\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "D:\\Android\\project\\0030_BHZS\\0002 development\\0001 code\\0001 android source\\Feton_android\\viewpagerindicator\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png",
+        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\facfe8906ce76df11facd0aa6a256c7002a19aff\\output\\res\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "D:\\Android\\project\\0030_BHZS\\0002 development\\0001 code\\0001 android source\\Feton_android\\viewpagerindicator\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png",
+        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\facfe8906ce76df11facd0aa6a256c7002a19aff\\output\\res\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png"
+    }
+]
